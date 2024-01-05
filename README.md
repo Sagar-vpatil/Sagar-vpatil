@@ -25,8 +25,7 @@ I'm a passionate Full Stack Developer with a strong background in backend techno
 - [Your University] - Bachelor's in Computer Science
 
 ## Contact
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+- 📧 Email:sagarpatil66626@gmail.com
+
 
 I'm always open to exciting projects and collaboration opportunities. Let's connect and build something amazing together! 🚀

@@ -26,6 +26,7 @@ I'm a passionate Full Stack Developer with a strong background in backend techno
 
 ## Contact
 - 📧 Email:sagarpatil66626@gmail.com
+- 💼 LinkedIn: [Sagar Patil](https://www.linkedin.com/in/sagar-patil-399a901aa/)
 
 
 I'm always open to exciting projects and collaboration opportunities. Let's connect and build something amazing together! 🚀

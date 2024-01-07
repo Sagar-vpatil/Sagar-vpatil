@@ -4,8 +4,8 @@ I'm a passionate Full Stack Developer with a strong background in backend techno
 
 ## Backend Development
 - **Languages:** Python, Java, C++
-- **Frameworks:** Django, Spring Boot
-- **Database:** MySQL, PostgreSQL, MongoDB
+- **Frameworks:** Django
+- **Database:** MySQL
 - **RESTful API Design:** Ensuring seamless communication between frontend and backend.
 
 ## Frontend Development
@@ -18,11 +18,11 @@ I'm a passionate Full Stack Developer with a strong background in backend techno
 - **DevOps:** Experience with deployment and continuous integration.
 
 ## Projects
-- [Project Name 1](link): A brief description of the project and your role.
-- [Project Name 2](link): Another example showcasing your skills.
+- [Student Dropout Analy](https://github.com/Sagar-vpatil/Students_Dropout): This project is a web application for analyzing student dropout rates and issuing policies to reduce them sounds like a valuable tool for the government and educational institutions. Here are the key points of project: Data Accuracy and Rejoining Analysis: Application aims to achieve 100% accuracy in tracking student dropout rates. Additionally, it will provide information on how many students rejoin school after dropping out. This data can offer valuable insights into the effectiveness of education policies and interventions and I am team leader of the project.
+
 
 ## Education
-- [Your University] - Bachelor's in Computer Science
+- [G.H. Raisoni Institute of Engineering and Business Management] - Bachelor of Computer  Applications
 
 ## Contact
 - 📧 Email:sagarpatil66626@gmail.com

@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer with a strong background in backend techno
 - **DevOps:** Experience with deployment and continuous integration.
 
 ## Projects
-- [Student Dropout Analy](https://github.com/Sagar-vpatil/Students_Dropout): This project is a web application for analyzing student dropout rates and issuing policies to reduce them sounds like a valuable tool for the government and educational institutions. Here are the key points of project: Data Accuracy and Rejoining Analysis: Application aims to achieve 100% accuracy in tracking student dropout rates. Additionally, it will provide information on how many students rejoin school after dropping out. This data can offer valuable insights into the effectiveness of education policies and interventions and I am team leader of the project.
+- [Student Dropout Analysis System](https://github.com/Sagar-vpatil/Students_Dropout): This project is a web application for analyzing student dropout rates and issuing policies to reduce them sounds like a valuable tool for the government and educational institutions. Here are the key points of project: Data Accuracy and Rejoining Analysis: Application aims to achieve 100% accuracy in tracking student dropout rates. Additionally, it will provide information on how many students rejoin school after dropping out. This data can offer valuable insights into the effectiveness of education policies and interventions and I am team leader of the project.
 
 
 ## Education

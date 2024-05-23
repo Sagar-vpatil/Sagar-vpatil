@@ -3,8 +3,8 @@
 I'm a passionate Full Stack Developer with a strong background in backend technologies and a knack for creating intuitive frontend experiences. My expertise spans multiple programming languages and frameworks, enabling me to build robust and scalable applications. Here's a snapshot of my technical skills:
 
 ## Backend Development
-- **Languages:** Python, Java, C++
-- **Frameworks:** Django
+- **Languages:** Python, Java, C++,Dart
+- **Frameworks:** Django,Flutter
 - **Database:** MySQL
 - **RESTful API Design:** Ensuring seamless communication between frontend and backend.
 

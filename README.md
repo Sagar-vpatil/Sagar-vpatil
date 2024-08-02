@@ -1,4 +1,4 @@
-# Hello, I'm [Sagar] 👋
+# Hello, I'm Sagar 👋
 
 I'm a passionate Full Stack Developer with a strong background in backend technologies and a knack for creating intuitive frontend experiences. My expertise spans multiple programming languages and frameworks, enabling me to build robust and scalable applications. Here's a snapshot of my technical skills:
 
